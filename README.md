@@ -50,7 +50,7 @@
 
 - 🛠️ Minhas Ferramentas Favoritas
 
-  - VS Code, Git, JavaScript.
+  - VS Code, Git, JavaScript, React.
 
 - 🌟 Obrigado por Visitar!
 -->
