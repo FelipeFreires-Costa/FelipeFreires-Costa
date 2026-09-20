@@ -1,10 +1,12 @@
-<h2 align="left">Olá!👋! Me chamo Felipe Freires</h2>
+<h2 align="left">Olá! Me chamo Felipe Freires</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeFreires-Costa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -35,24 +37,18 @@
 ###
 
 
-- 📚 O Que Estou Aprendendo
+ O Que Estou Aprendendo
 
-  - JavaScript, Logica de programação, DOM, FlexBox, React, TypeScript
+  - JavaScript, Logica de programação, DOM, FlexBox, React, TypeScript, SQL
 
-- 🚀 Meus Projetos
+-  Meus Projetos
 
   - Meus Projetos estão em andamento...
 
-- 💡 Desafios e Lógica
-
-  - 🛒 Carrinho de Compras Interativo
-  - 📝 Gerenciador de Tópicos de Estudo
-  - 🔍 Filtro de Itens Dinâmico
-  - 🔄 Verificador de Palíndromo
 
 - 🛠️ Minhas Ferramentas Favoritas
 
-  - VS Code, Git, JavaScript, React.
+  - VS Code, Git, PostgreSql, JavaScript, React.
 
-- 🌟 Obrigado por Visitar!
+- Obrigado por Visitar!
 -->
