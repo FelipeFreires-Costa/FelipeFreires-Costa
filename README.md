@@ -37,8 +37,6 @@
 ###
 
 
-# Felipe Freires da Costa
-
 **Estudante de Sistemas de Informação** · Dados e desenvolvimento de software
 
 Direciono meus estudos para a área de Dados, sem deixar de lado o desenvolvimento de software. Tenho interesse em SQL, Python, bancos de dados, análise de dados e BI, e continuo estudando tecnologias de desenvolvimento.
