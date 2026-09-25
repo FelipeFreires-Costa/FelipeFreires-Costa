@@ -37,18 +37,29 @@
 ###
 
 
- O Que Estou Aprendendo
+Sou estudante de Sistemas de Informação e atualmente estou direcionando meus estudos para a área de Dados, sem deixar de lado meu interesse por desenvolvimento de software.
 
-  - JavaScript, Logica de programação, DOM, FlexBox, React, TypeScript, SQL
+Tenho interesse principalmente em SQL, Python, bancos de dados, análise de dados e BI, além de continuar estudando tecnologias de desenvolvimento.
 
--  Meus Projetos
+Atualmente estudando
+• SQL e bancos de dados
+• Python
+• Análise e tratamento de dados
+• Power BI
+• Fundamentos de Engenharia de Dados
+• JavaScript e TypeScript
+• React
+• Git e GitHub
+• Tecnologias e ferramentas
 
-  - Meus Projetos estão em andamento...
+Dados: SQL • PostgreSQL • Python • Power BI
+Desenvolvimento: JavaScript • TypeScript • React • Node.js
+Ferramentas: Git • GitHub • VS Code
 
+Projetos
 
-- 🛠️ Minhas Ferramentas Favoritas
+Estou desenvolvendo projetos voltados principalmente para dados, análise e programação, buscando aplicar os conhecimentos estudados em problemas próximos de situações reais.
 
-  - VS Code, Git, PostgreSql, JavaScript, React.
+Objetivo
 
-- Obrigado por Visitar!
--->
+Construir uma base sólida em Dados e Engenharia de Dados, mantendo minha experiência e conhecimento em desenvolvimento de software.
