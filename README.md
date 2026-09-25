@@ -37,29 +37,18 @@
 ###
 
 
-Sou estudante de Sistemas de Informação e atualmente estou direcionando meus estudos para a área de Dados, sem deixar de lado meu interesse por desenvolvimento de software.
+# Felipe Freires da Costa
 
-Tenho interesse principalmente em SQL, Python, bancos de dados, análise de dados e BI, além de continuar estudando tecnologias de desenvolvimento.
+**Estudante de Sistemas de Informação** · Dados e desenvolvimento de software
 
-Atualmente estudando
-• SQL e bancos de dados
-• Python
-• Análise e tratamento de dados
-• Power BI
-• Fundamentos de Engenharia de Dados
-• JavaScript e TypeScript
-• React
-• Git e GitHub
-• Tecnologias e ferramentas
+Direciono meus estudos para a área de Dados, sem deixar de lado o desenvolvimento de software. Tenho interesse em SQL, Python, bancos de dados, análise de dados e BI, e continuo estudando tecnologias de desenvolvimento.
 
-Dados: SQL • PostgreSQL • Python • Power BI
-Desenvolvimento: JavaScript • TypeScript • React • Node.js
-Ferramentas: Git • GitHub • VS Code
+| Dados | Desenvolvimento | Ferramentas |
+| --- | --- | --- |
+| SQL · PostgreSQL · Python · Power BI | JavaScript · TypeScript · React · Node.js | Git · GitHub · VS Code |
 
-Projetos
+**Estudando agora:** SQL e bancos de dados · Python · Análise e tratamento de dados · Power BI · Fundamentos de Engenharia de Dados · JavaScript e TypeScript · React · Git e GitHub
 
-Estou desenvolvendo projetos voltados principalmente para dados, análise e programação, buscando aplicar os conhecimentos estudados em problemas próximos de situações reais.
+**Projetos:** projetos de dados, análise e programação, aplicando o que estudo em problemas próximos de situações reais.
 
-Objetivo
-
-Construir uma base sólida em Dados e Engenharia de Dados, mantendo minha experiência e conhecimento em desenvolvimento de software.
+**Objetivo:** construir uma base sólida em Dados e Engenharia de Dados, mantendo o conhecimento em desenvolvimento de software.
